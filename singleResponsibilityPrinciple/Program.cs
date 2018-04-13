@@ -48,6 +48,9 @@ namespace singleResponsibilityPrinciple
         }
     }
 
+    // **NOTE** Saveing and Loading SHOULD be put into their own class that will have the
+    // sole responsibility of reading and // writing to files
+    
     // Manages Writing of Journal file
     public class Persistence
     {

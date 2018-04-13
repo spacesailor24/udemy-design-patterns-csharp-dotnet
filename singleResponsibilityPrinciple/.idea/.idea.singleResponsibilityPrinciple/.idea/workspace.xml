@@ -14,23 +14,24 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            <state relative-caret-position="432">
+              <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
               <folding>
-                <marker date="1523649847254" expanded="true" signature="6:90" ph="..." />
-                <marker date="1523649847254" expanded="true" signature="131:2249" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="200:1433" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="387:507" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="517:681" ph="/* Removes Journal entries ... */" />
-                <marker date="1523649847254" expanded="true" signature="724:781" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="889:971" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="989:1214" ph="/* NOTE** The following methods in this class break the Single Responsibility Principle ... */" />
-                <marker date="1523649847254" expanded="true" signature="1281:1334" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="1377:1427" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="1502:1843" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="1699:1837" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="1866:2247" ph="{...}" />
-                <marker date="1523649847254" expanded="true" signature="1912:2241" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="6:90" ph="..." />
+                <marker date="1523649970422" expanded="true" signature="131:2406" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="200:1433" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="387:507" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="517:681" ph="/* Removes Journal entries ... */" />
+                <marker date="1523649970422" expanded="true" signature="724:781" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="889:971" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="989:1214" ph="/* NOTE** The following methods in this class break the Single Responsibility Principle ... */" />
+                <marker date="1523649970422" expanded="true" signature="1281:1334" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="1377:1427" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="1439:1630" ph="/* NOTE** Saveing and Loading SHOULD be put into their own class that will have the ... */" />
+                <marker date="1523649970422" expanded="true" signature="1659:2000" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="1856:1994" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="2023:2404" ph="{...}" />
+                <marker date="1523649970422" expanded="true" signature="2069:2398" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523648287464</updated>
-      <workItem from="1523648288850" duration="1559000" />
+      <workItem from="1523648288850" duration="1682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1559000" />
+    <option name="totallyTimeSpent" value="1682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,23 +197,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        <state relative-caret-position="432">
+          <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
           <folding>
-            <marker date="1523649847254" expanded="true" signature="6:90" ph="..." />
-            <marker date="1523649847254" expanded="true" signature="131:2249" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="200:1433" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="387:507" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="517:681" ph="/* Removes Journal entries ... */" />
-            <marker date="1523649847254" expanded="true" signature="724:781" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="889:971" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="989:1214" ph="/* NOTE** The following methods in this class break the Single Responsibility Principle ... */" />
-            <marker date="1523649847254" expanded="true" signature="1281:1334" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="1377:1427" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="1502:1843" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="1699:1837" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="1866:2247" ph="{...}" />
-            <marker date="1523649847254" expanded="true" signature="1912:2241" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="6:90" ph="..." />
+            <marker date="1523649970422" expanded="true" signature="131:2406" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="200:1433" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="387:507" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="517:681" ph="/* Removes Journal entries ... */" />
+            <marker date="1523649970422" expanded="true" signature="724:781" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="889:971" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="989:1214" ph="/* NOTE** The following methods in this class break the Single Responsibility Principle ... */" />
+            <marker date="1523649970422" expanded="true" signature="1281:1334" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="1377:1427" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="1439:1630" ph="/* NOTE** Saveing and Loading SHOULD be put into their own class that will have the ... */" />
+            <marker date="1523649970422" expanded="true" signature="1659:2000" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="1856:1994" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="2023:2404" ph="{...}" />
+            <marker date="1523649970422" expanded="true" signature="2069:2398" ph="{...}" />
           </folding>
         </state>
       </provider>
