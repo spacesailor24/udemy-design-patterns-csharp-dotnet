@@ -51,6 +51,7 @@ namespace singleResponsibilityPrinciple
     // Manages Writing of Journal file
     public class Persistence
     {
+        // Saves journal using filename with option to overwrite filename if overwrite = true
         public void SaveEntryToJournal(Journal journal, string filename, bool overwrite = false)
         {
             if (overwrite || !File.Exists(filename))
