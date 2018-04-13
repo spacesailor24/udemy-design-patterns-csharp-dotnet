@@ -1,32 +1,4 @@
-# Design Patterns C# and .NET
-
-[**Udemy Course Link**](https://www.udemy.com/design-patterns-csharp-dotnet/learn/v4/content) - https://www.udemy.com/design-patterns-csharp-dotnet/learn/v4/content
-
-## Table of Contents
-
-Lecture Topic | Link
---- | ---
-General Notes | [General Notes](#general-notes)
-**SECTION 1** | [**Section 1**](#section-1)
-Single Responsibility Principle | [Lecture 3](#section-1-lecture-3)
-
-## General Notes
-
-<!-- ################################################################################################################ -->
-<!--                                                     SECTION 1                                                    -->
-<!-- ################################################################################################################ -->
-
-## SECTION 1
-
-### Section 1 Lecture 3
-
-#### Single Responsibility Principle
-
-- States that every `module` or `class` should have **responsibility** over a **single** part of the functionality provided by the program e.g.:
-
-```csharp
-public class
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -60,7 +32,7 @@ namespace singleResponsibilityPrinciple
         {
             return string.Join(Environment.NewLine, entries);
         }
-
+        
         // **NOTE** The following methods in this class break the Single Responsibility Principle
         // because they now provide additional responsibilities to the class Journal beyond
         // just adding and removing entries
@@ -85,7 +57,7 @@ namespace singleResponsibilityPrinciple
                 File.WriteAllText(filename, journal.ToString());
         }
     }
-
+    
     class Program
     {
         static void Main(string[] args)
@@ -93,13 +65,12 @@ namespace singleResponsibilityPrinciple
             var j = new Journal();
             j.AddEntry("Hello World!");
             j.AddEntry("Goodbye World!");
-
+            
             var p = new Persistence();
             var filename = @"journal.txt";
-
+            
             p.SaveEntryToJournal(j, filename);
             Process.Start(filename);
         }
     }
 }
-```

@@ -1,0 +1,10 @@
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/bin/Debug/netcoreapp2.0/singleResponsibilityPrinciple.deps.json
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/bin/Debug/netcoreapp2.0/singleResponsibilityPrinciple.runtimeconfig.json
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/bin/Debug/netcoreapp2.0/singleResponsibilityPrinciple.runtimeconfig.dev.json
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/bin/Debug/netcoreapp2.0/singleResponsibilityPrinciple.dll
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/bin/Debug/netcoreapp2.0/singleResponsibilityPrinciple.pdb
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/obj/Debug/netcoreapp2.0/singleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/obj/Debug/netcoreapp2.0/singleResponsibilityPrinciple.AssemblyInfoInputs.cache
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/obj/Debug/netcoreapp2.0/singleResponsibilityPrinciple.AssemblyInfo.cs
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/obj/Debug/netcoreapp2.0/singleResponsibilityPrinciple.dll
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/singleResponsibilityPrinciple/obj/Debug/netcoreapp2.0/singleResponsibilityPrinciple.pdb
