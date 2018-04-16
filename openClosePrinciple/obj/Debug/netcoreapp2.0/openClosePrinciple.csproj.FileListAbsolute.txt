@@ -1,0 +1,10 @@
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/bin/Debug/netcoreapp2.0/openClosePrinciple.deps.json
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/bin/Debug/netcoreapp2.0/openClosePrinciple.runtimeconfig.json
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/bin/Debug/netcoreapp2.0/openClosePrinciple.runtimeconfig.dev.json
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/bin/Debug/netcoreapp2.0/openClosePrinciple.dll
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/bin/Debug/netcoreapp2.0/openClosePrinciple.pdb
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/obj/Debug/netcoreapp2.0/openClosePrinciple.csproj.CoreCompileInputs.cache
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/obj/Debug/netcoreapp2.0/openClosePrinciple.AssemblyInfoInputs.cache
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/obj/Debug/netcoreapp2.0/openClosePrinciple.AssemblyInfo.cs
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/obj/Debug/netcoreapp2.0/openClosePrinciple.dll
+/home/wyatt/Public/Code/udemy/design-patterns-csharp-dotnet/openClosePrinciple/obj/Debug/netcoreapp2.0/openClosePrinciple.pdb
