@@ -9,6 +9,7 @@ Lecture Topic | Link
 General Notes | [General Notes](#general-notes)
 **SECTION 1** | [**Section 1**](#section-1)
 Single Responsibility Principle | [Lecture 3](#section-1-lecture-3)
+Open Closed Principle | [Lecture 4](#section-1-lecture-4)
 
 ## General Notes
 
@@ -152,7 +153,7 @@ namespace singleResponsibilityPrinciple
 
 ### Section 1 Lecture 4
 
-#### Open Close Principle
+#### Open Closed Principle
 
 - States that `classes`, `modules`, `functions`, etc. should be **open** for extension, but **closed** for modification
 
